@@ -1,0 +1,112 @@
+Script started on 2025-01-04 21:02:11-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]777;notify;Command completed;./ping_test.py \]777;precmd\]0;titus@europa:~\]7;file://europa.jupiture.com/home/titus\[?2004h[titus@europa ~]$ ./ping_test.py 
+[?2004l]777;preexec\[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	1
+[H[2J[3JTesting Connectivity to your gateway (192.168.135.2) ...
+
+[H[2J[3JRunning test, please wait.
+
+Please inform your system administrator that the test was[1m[93m SUCCESSFUL[0m!
+
+[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	2
+[H[2J[3JTesting for remote connectivity... trying IP address 8.8.8.8.
+
+[H[2J[3JRunning test, please wait.
+
+Please inform your system administrator that the test was[1m[93m SUCCESSFUL[0m!
+
+[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	3
+[H[2J[3JResolving DNS: trying URL...[1m[93mwww.google.com.[0m
+
+ping: www.google.com: Name or service not known
+[H[2J[3JRunning Test, please wait.
+
+Please inform your system administrator the test has[1m[91m FAILED[0m!
+[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	4
+[H[2J[3J
+Your gateway IP address is [93m192.168.135.2[0m.
+[H[2J[3J[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	blahblah
+
+You entered an [1m[91minvalid option[0m!
+
+Please select a number between 1 through 4.
+[H[2J[3J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	q
+[H[2J[3J
+Quiting program: returning to terminal.
+[93m 
+Have a wonderful day![0m
+[H[2J[3J]777;notify;Command completed;./ping_test.py \]777;precmd\]0;titus@europa:~\]7;file://europa.jupiture.com/home/titus\[?2004h[titus@europa ~]$ [?2004l
+exit
+
+Script done on 2025-01-04 21:03:41-05:00 [COMMAND_EXIT_CODE="0"]
