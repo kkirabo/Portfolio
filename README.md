@@ -19,15 +19,14 @@ Hands-on experience in reconnaissance, exploitation, and privilege escalation ac
 
 ---
 
-## 🛠️ Custom Tools
+## Custom Tools
 
 ### Quickscan.py (source code will be released in the future)
 - Python-based network scanner automating full port and service enumeration using Nmap
-- 
 
 ---
 
-## 🧪 Security Projects
+##  Security Projects
 
 ### Brick Wall Vulnerability Assessment
 - Identified and analyzed security vulnerabilities in simulated enterprise network
