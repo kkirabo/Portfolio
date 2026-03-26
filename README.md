@@ -25,9 +25,10 @@ Hands-on experience in reconnaissance, exploitation, and privilege escalation ac
 - Python-based network scanner automating full port and service enumeration using Nmap
 
 ## Usage
-python3 quickscan.py <target>
+python3 quickscan.py <target> 
 
-## Why I built this
+## Why I built this 
+
 To speed up enumeraiton during penetration testing labs. Typing out the full command takes added time which slows functionality. 
 ---
 
