@@ -8,7 +8,6 @@ import subprocess
 import sys
 from urllib.parse import urlparse
 
-# used to contain 
 def normalize_target(raw_target: str) -> str:
     raw_target = raw_target.strip()
     if raw_target.startswith("http://") or raw_target.startswith("https://"):
