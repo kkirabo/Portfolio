@@ -29,8 +29,10 @@ python3 quickscan.py <target>
 
 ## Why I built this 
 
-To speed up enumeraiton during penetration testing labs. Typing out the full command takes added time which slows functionality. 
+To speed up enumeraiton during penetration testing labs. Typing out the full command takes added time which slows functionality.
+
 ---
+
 
 ##  Security Projects
 
