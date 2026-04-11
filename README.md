@@ -21,7 +21,7 @@ Hands-on experience in reconnaissance, exploitation, and privilege escalation ac
 
 ## Custom Tools
 
-### Quickscan.py (source code will be released in the future)
+### Quickscan.py
 - Python-based network scanner automating full port and service enumeration using Nmap
 
 ## Usage
